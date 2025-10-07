@@ -1,0 +1,10 @@
+# Folder cache Python
+__pycache__/
+
+# Folder virtual environment
+venv/
+*.venv
+env/
+
+# File environment yang berisi rahasia (JANGAN DIUPLOAD)
+.env
